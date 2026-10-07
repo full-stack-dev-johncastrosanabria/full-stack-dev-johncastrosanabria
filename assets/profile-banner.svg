@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">John Castro Sanabria — Full-stack and applied AI</title>
+<desc id="desc">C# and .NET, React and Angular, applied AI and agentic systems. San José, Costa Rica.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0f172a"/><stop offset="1" stop-color="#12343b"/></linearGradient><pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#d1fae5" stroke-opacity=".035"/></pattern></defs>
+<rect width="1200" height="300" rx="18" fill="url(#bg)"/><rect width="1200" height="300" rx="18" fill="url(#grid)"/>
+<rect x="44" y="46" width="5" height="208" rx="2" fill="#5eead4"/>
+<g font-family="Arial, Helvetica, sans-serif"><text x="72" y="71" fill="#5eead4" font-size="15" letter-spacing="3">FULL-STACK · APPLIED AI</text><text x="70" y="136" fill="#f8fafc" font-size="46" font-weight="700">John Castro Sanabria</text><text x="72" y="179" fill="#cbd5e1" font-size="21">C# / .NET  ·  React / Angular</text><text x="72" y="217" fill="#cbd5e1" font-size="21">Useful applications. Thoughtful agentic systems.</text><text x="72" y="258" fill="#94a3b8" font-size="15">San José, Costa Rica  /  Open to opportunities</text></g>
+<g transform="translate(805 58)"><rect width="342" height="186" rx="12" fill="#0b1425" stroke="#547074" stroke-opacity=".6"/><circle cx="21" cy="20" r="4" fill="#5eead4"/><circle cx="36" cy="20" r="4" fill="#64748b"/><circle cx="51" cy="20" r="4" fill="#64748b"/><path d="M0 39H342" stroke="#334155"/>
+<g font-family="Menlo, Consolas, monospace" font-size="17"><text x="23" y="77" fill="#94a3b8">// engineering focus</text><text x="23" y="112" fill="#e2e8f0">build <tspan fill="#5eead4">full_stack</tspan></text><text x="23" y="141" fill="#e2e8f0">explore <tspan fill="#5eead4">agentic_ai</tspan></text><text x="23" y="170" fill="#e2e8f0">share <tspan fill="#5eead4">what_you_learn</tspan></text></g></g>
+</svg>
