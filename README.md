@@ -8,7 +8,7 @@ I build applications around clear business rules, maintainable APIs and useful i
 
 📍 **San José, Costa Rica** · Open to **full-stack .NET**, **AI application engineering** and **agentic systems** opportunities. Also open to **Java / Spring Boot** and **Python / Flask**.
 
-**[Explore my portfolio ↗](https://full-stack-dev-johncastrosanabria.github.io/Portfolio/)** · [Watch technical demos](https://www.youtube.com/@JohnCastroTechLabs) · [LinkedIn](https://www.linkedin.com/in/john-castro-sanabria/) · [X / @JohnCS97](https://x.com/JohnCS97) · [Contact me](mailto:castrosanabriajohn2@gmail.com)
+**[Explore my portfolio ↗](https://full-stack-dev-johncastrosanabria.github.io/Portfolio/)** · [Watch technical demos](https://www.youtube.com/@JohnCastroTechLabs) · [LinkedIn](https://www.linkedin.com/in/john-castro-sanabria/) · [X / @JohnCS97](https://x.com/JohnCS97) · [Contact me](mailto:castrosanabriajohn@gmail.com)
 
 ## 🚀 Try something first
 
