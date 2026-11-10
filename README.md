@@ -25,6 +25,7 @@ Explore rental workflows, tenants, payments and a dashboard. The hosted demo use
 
 ## 🤖 Applied AI & agentic engineering
 
+- **[NovaHub Technical Interviews — demo video ▶](https://www.youtube.com/watch?v=CTxNYPJxagw)** — post-screening technical assessment platform: candidates take timed tests and six AI agents support question drafting, rubric-based grading and integrity analysis, always with human review. ASP.NET Core .NET 10, EF Core / SQL Server and React, with Microsoft Agent Framework, Claude models and OpenTelemetry. Private repository; the video walks through the full flow.
 - **[Docker Coding Agent](https://github.com/full-stack-dev-johncastrosanabria/docker-coding-agent-v1)** — bounded coding tasks in Docker Sandboxes, Claude/Codex backends, verification and completion reports. Start with the supported paths and V1 limitations in its README.
 - **[BusinessAI-Analytics](https://github.com/full-stack-dev-johncastrosanabria/BusinessAI-Analytics)** — Spring Boot, React and Python/FastAPI for business dashboards, forecasting and chatbot workflows. Architecture and recorded demo inside.
 - **[FlaskApiProduct](https://github.com/full-stack-dev-johncastrosanabria/FlaskApiProduct)** — Flask, SQLAlchemy and TypeScript for product/order APIs, analytics and chatbot integration. Includes setup and API documentation.
