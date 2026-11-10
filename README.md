@@ -1,12 +1,12 @@
-![John Castro Sanabria — Full-stack .NET, React/Angular and applied AI](assets/profile-banner.svg)
+![John Castro Sanabria — Full-Stack & Agentic AI Engineer](assets/profile-banner.png)
 
 # Hi, I'm John 👋
 
-**Full-stack Software Engineer · .NET + React / Angular · Applied AI & Agentic Systems**
+**Full-Stack & Agentic AI Engineer · AI Engineer at Novacomp · .NET, Java, Python, SQL + React / Angular**
 
 I build applications around clear business rules, maintainable APIs and useful interfaces. Here you'll find banking and property-management projects, practical AI integrations and tools for agentic software engineering.
 
-📍 **San José, Costa Rica** · Open to **full-stack .NET**, **AI application engineering** and **agentic systems** opportunities. Also open to **Java / Spring Boot** and **Python / Flask**.
+📍 **San José, Costa Rica** · AI Engineer in **Novacomp's AI Office**: full-stack software with AI, autonomous agents, RAG and MCP, built with spec-driven development and Claude Code.
 
 **[Explore my portfolio ↗](https://full-stack-dev-johncastrosanabria.github.io/Portfolio/)** · [Watch technical demos](https://www.youtube.com/@JohnCastroTechLabs) · [LinkedIn](https://www.linkedin.com/in/john-castro-sanabria/) · [X / @JohnCS97](https://x.com/JohnCS97) · [Contact me](mailto:castrosanabriajohn@gmail.com)
 
